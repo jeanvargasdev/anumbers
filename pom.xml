@@ -16,6 +16,7 @@
 	<name>alticci-numbers</name>
 	<description>Alticci Sequence Values</description>
 	<properties>
+	
 		<java.version>16</java.version>
 	</properties>
 	<dependencies>
