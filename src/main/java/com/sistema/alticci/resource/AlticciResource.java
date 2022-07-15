@@ -16,7 +16,6 @@ import io.swagger.v3.oas.annotations.enums.ParameterIn;
 
 @RestController()
 @RequestMapping("/api")
-@CrossOrigin(origins="*")
 public class AlticciResource {
 	
 	@Autowired
