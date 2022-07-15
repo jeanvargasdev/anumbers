@@ -1,1 +1,1 @@
-web: java -jar target/alticci-numbers-1.0.0.war
+"java $JAVA_OPTS -jar -Dspring.profiles.active=prod target/dependency/webapp-runner.jar --port $PORT target/*.war" 
